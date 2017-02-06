@@ -25,4 +25,6 @@ npm start
 - **Order by Ascending or Descending**
 - [JS Standard style linting](https://github.com/feross/standard/blob/master/RULES.md#javascript-standard-style)
 
+## Screenshot
+
 ![Screenshot](/screenshot.jpg?raw=true "Screenshot")
